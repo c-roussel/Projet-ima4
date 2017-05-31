@@ -1,6 +1,8 @@
 # Projet IMA4 : Sextoy connecté
 
-### Groupe : 
+Au cours de ma quatrième année à Polytech Lille en spécialité système communicant, j'ai été amené à travailler sur la mise en place d'un objet connecté (un sextoy connecté). Bien qu'atypique, ce projet a permis de déployer un large panel de compétences dans le management d'un projet dans les objets connectés : programmation AVR, conception, programmation android, communication bluetooth, réseau...
+
+### Groupe :
 STIEVENARD Thomas
 
 ROUSSEL Cédric
@@ -45,5 +47,4 @@ En cliquant sur 'croix' couper toutes les communications (Bluetooth et UDP)</p>
 
 
 Si vous avez cliquez sur le '-' pour ne pas utiliser de périphérique bluetooth, la page lancée disposera du même bouton 'Désactivé/Activé'
-, mais aussi de quatre boutons permettant de choisr le niveau d'excitation envoyé à l'autre utilisateur. 
-
+, mais aussi de quatre boutons permettant de choisr le niveau d'excitation envoyé à l'autre utilisateur.
